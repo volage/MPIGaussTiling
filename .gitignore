@@ -12,5 +12,4 @@
 *.a
 
 # Project files
-*.vcproj
-*.user
+*/Debug
